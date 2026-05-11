@@ -1,5 +1,7 @@
 # GenLink JARVIS Agent
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 > **Hackathon:** GenLink Hacks 2026 — SOUMIS ✅
 
 AI agent that maps semantic relationships between web resources and generates knowledge graphs. Transforms raw search results into an interconnected graph of concepts, entities, and sources.
